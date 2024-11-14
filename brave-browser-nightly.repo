@@ -1,0 +1,4 @@
+[brave-browser-nightly]
+name=Brave Browser - Nightly
+enabled=1
+baseurl=https://brave-browser-rpm-nightly.s3.brave.com/$basearch
