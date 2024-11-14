@@ -1,0 +1,4 @@
+[brave-browser-beta]
+name=Brave Browser - Beta
+enabled=1
+baseurl=https://brave-browser-rpm-beta.s3.brave.com/$basearch
